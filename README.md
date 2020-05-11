@@ -147,4 +147,4 @@ For the extension, we trained and compared two different ensemble classifiers to
 - Print the classification report (classification_report_imbalanced from imblearn.metrics).
 - For the BalancedRandomForestClassifier, print the feature importance, sorted in descending order (from most to least important feature), along with the feature score.  
 
-Lastly, we wrote a brief summary and analysis of the models’ performance, described the precision and recall scores, as well as the balanced accuracy score. Additionally, we included a final recommendation on the model to use, if any. If we did not recommend any of the models, we justified our reasoning.  
+At the end of each challenge analysis, I wrote a summary of each project and how their models' performances were, precision & sensitivity scores, and their accuracy. Also I have stated my personal advise in future research on which model should be used and will be more effective. Accuracy does matter but nothing is perfect so it will be highly depend on each analyst's perspective and decision. 
