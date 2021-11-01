@@ -1,4 +1,7 @@
-# Module 17 Machine Learning Part 1
+# Objectives
+
+We aim to predict the credict risk of the American population over unsecured personal loan using tools from the machine learning.
+
 ## Project Overview  
 In 2019, more than 19 million Americans had at least one unsecured personal loan. That’s a record-breaking number! Personal lending is growing faster than credit card, auto, mortgage, and even student debt. With such incredible growth, FinTech firms are storming ahead of traditional loan processes. By using the latest machine learning techniques, these FinTech firms can continuously analyze large amounts of data and predict trends to optimize lending.  
 
@@ -8,7 +11,7 @@ In this module, we used Python to build and evaluate several machine learning mo
 - **Data Source:** [LoanStats_2019Q1.csv](/Challenge/Resources/LoanStats_2019Q1.zip)
 - **Software:** Python and Scikit-learn  
 
-## Objectives  
+## Steps undertaken
 - Explain how a machine learning algorithm is used in data analytics.
 - Create training and test groups from a given data set.
 - Implement the logistic regression, decision tree, random forest, and support vector machine algorithms.
